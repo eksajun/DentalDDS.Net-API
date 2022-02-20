@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS2001: Source file 'C:\Projects\DentalDDS_Api_dev\DentalDDS_Api\Models\ModelFactory.cs' could not be found.
+dotnet_diagnostic.CS2001.severity = none
